@@ -13,7 +13,8 @@
 .store{
     display: flex;
     font-size: 30px;
-    background: #fff;   
+    background: #fff; 
+    position: top;  
 }
 .Shopping{
     margin-left: 75%;
