@@ -27,7 +27,7 @@ import { Image } from 'antd';
               </div>
      </div>
       <div className='landmark'>
-           <h1 className='land'>Landmark Bridge Image</h1>
+           <h1 className='land'>Landmark Bridge Imagess</h1>
               <button className='cart'>ADD TO CART</button>
      </div>
      <div>
