@@ -27,7 +27,7 @@ import { Image } from 'antd';
               </div>
      </div>
       <div className='landmark'>
-           <h1 className='land'>Landmark Bridge Imagess</h1>
+           <h1 className='land'>Landmark Bridge Image</h1>
               <button className='cart'>ADD TO CART</button>
      </div>
      <div>
@@ -45,7 +45,7 @@ import { Image } from 'antd';
        <p className='paragraph'>So how did the classical latin become so incoherent? According to McClintock, a 15th century<br/> 
             typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to<br/>
             mockup various fonts for a type specimen book.So how did the classical Latin becomne so<br/>
-            incoherent? According to McClintock, a 15th century typesetter likely scrambled part of<br/>
+            incoherent? According to McClintock, a 15th century typesettesaar laassj ikely scrambled part of<br/>
             Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type<br/>
             specimen book.So how did the classical  Latin becomne so incoherent? According to McClintock. </p>
     <div className='display'>
